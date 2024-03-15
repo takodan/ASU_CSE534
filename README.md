@@ -1,5 +1,5 @@
 # ASU_CSE534
-CSE 534 Advanced Computer Networks
+CSE 534: Advanced Computer Networks (2024 Spring)
 
 # Syllabus
 1. The Internet Architecture
