@@ -1,5 +1,5 @@
-# ASU_CSE598
-CSE 598: Foundations of Social Media Mining (2024 Summer)
+# ASU_CSE534
+CSE 534: Advanced Computer Networks (2024 Spring)
 
 ## Modules
 1. The Internet Architecture
